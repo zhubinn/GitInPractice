@@ -6,5 +6,4 @@ New added line for test.
 A line added for the branch Chapter-two
 
 I should do some extra work here.
-Oh,My god
-
+Oh, No God
