@@ -1,10 +1,3 @@
-this is a first test
-Opening One joke. Funny? OK
-Another test 1
+Preface
 
-New added line for test.
-A line added for the branch Chapter-two
-
-I should do some extra work here.
-Oh, No God
-
+This test content is for preface.
