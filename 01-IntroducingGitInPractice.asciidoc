@@ -11,3 +11,5 @@ Oh, No God
 chapter01
 The content is for chapter 1.
 Chapter 1's Contents:
+
+The inspiration chapter added.
