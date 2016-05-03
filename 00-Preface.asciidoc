@@ -4,3 +4,4 @@ This test content is for preface.
 Add some content for git cherry test.
 
 The inspiration on another computer
+OK, this is showed at my local machine.
