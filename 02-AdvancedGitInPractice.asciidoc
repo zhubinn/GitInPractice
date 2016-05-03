@@ -1,1 +1,3 @@
 Chapter 2
+
+This chapter introduce some concepte of git.

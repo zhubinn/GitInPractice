@@ -8,4 +8,4 @@ A line added for the branch Chapter-two
 I should do some extra work here.
 Oh, No God
 
-Another pull --debase test for this repository
+Chapter 6 for reset git
