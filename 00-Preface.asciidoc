@@ -9,3 +9,5 @@ I should do some extra work here.
 Oh, No God
 
 Chapter 6 for reset git
+
+another test for git pull --rebase
