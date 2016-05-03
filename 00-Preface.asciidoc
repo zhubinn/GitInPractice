@@ -2,3 +2,5 @@ Preface
 
 This test content is for preface.
 Add some content for git cherry test.
+
+The inspiration on another computer
