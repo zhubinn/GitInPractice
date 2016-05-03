@@ -13,3 +13,5 @@ The content is for chapter 1.
 Chapter 1's Contents:
 
 The inspiration chapter added.
+
+The inspirations 2 for this chapter added.
