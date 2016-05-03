@@ -8,3 +8,4 @@ A line added for the branch Chapter-two
 I should do some extra work here.
 Oh, No God
 
+Chapter 6 for reset git
