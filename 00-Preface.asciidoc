@@ -11,3 +11,5 @@ Oh, No God
 Chapter 6 for reset git
 
 another test for git pull --rebase
+
+A new pre-test preface line added.
