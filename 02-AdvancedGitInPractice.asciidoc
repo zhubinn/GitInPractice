@@ -3,3 +3,5 @@ Chapter 2
 This chapter introduce some concepte of git.
 
 Do changes for the chapter 2.
+
+Add a new line for test chapter 2.
